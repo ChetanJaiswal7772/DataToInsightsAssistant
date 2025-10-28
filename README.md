@@ -74,7 +74,7 @@ Streamlit application development
 Automating data insight generation with Generative AI
 It demonstrates the ability to combine data science principles with modern AI techniques to create practical, intelligent tools for data interpretation.
 
-Author
+Author : 
 Chetan Jaiswal
 Data Scientist | Python Developer | GenAI Practitioner
 
